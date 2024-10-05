@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProblemaOOP_Meciuri_de_fotbal_Reincercare",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProblemaOOP_Meciuri_de_fotbal_Reincercare::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProblemaOOP_Meciuri_de_fotbal_Reincercare-Debug-37b7234de9411ccb5daa.json",
+					"name" : "ProblemaOOP_Meciuri_de_fotbal_Reincercare",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CLion probleme/ProblemaOOP_Meciuri_de_fotbal_Reincercare/ProblemaOOP_Meciuri_de_fotbal_Reincercare/cmake-build-debug",
+		"source" : "D:/CLion probleme/ProblemaOOP_Meciuri_de_fotbal_Reincercare/ProblemaOOP_Meciuri_de_fotbal_Reincercare"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
